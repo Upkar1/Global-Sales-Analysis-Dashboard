@@ -33,5 +33,5 @@ The following objectives have been worked upon:
 <ul>Analysis of Quantity Ordered
 <ul>Analysis of Sales across Different Countries Yearly
 <ul>Analysis of Sales across Different Territories Yearly
-<ul>Analysis of the categories of Products sold  
-
+<ul>Analysis of the categories of Products sold
+</li>
