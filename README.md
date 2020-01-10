@@ -28,10 +28,9 @@ This dashboard is built upon a sales dataset that has various parameters which i
 
 
 The following objectives have been worked upon:
-<li>
-<ul>Analysis of Deal Size<ul>
-<ul>Analysis of Quantity Ordered<ul>
-<ul>Analysis of Sales across Different Countries Yearly<ul>
-<ul>Analysis of Sales across Different Territories Yearly<ul>
-<ul>Analysis of the categories of Products sold<ul>
-</li>
+<li>Analysis of Deal Size
+<li>Analysis of Quantity Ordered
+<li>Analysis of Sales across Different Countries Yearly
+<li>Analysis of Sales across Different Territories Yearly
+<li>Analysis of the categories of Products sold<ul>
+
